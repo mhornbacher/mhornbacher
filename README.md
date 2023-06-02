@@ -4,10 +4,9 @@ I am Menachem, a Senior Software Developer in the Education space, a volunteer E
 
 ![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/1890717?color=g&label=StackOverflow&logo=StackOverflow)
 
-## 🚀 Projects
+## 🚀 Live Projects
 
 - [Montessori Tools](https://github.com/mhornbacher/montessori-tools) Public Good Education Project
-- [Merkos 302](https://merkos302.com/) Building a New Platform for Chabad
 - [CryptoSnap](https://github.com/CryptoSnap9001) Hackathon Project
 
 ## 🌱 Open Source Contributions
