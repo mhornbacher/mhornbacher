@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Menachem, a Senior Software Developer in the Education space and a volunteer EMT in New York and a proud Citizen of 🇺🇸 and 🇳🇱/🇪🇺
+I am Menachem, a Senior Software Developer in the Education space, a volunteer EMT in New York and a proud Citizen of 🇺🇸 and 🇳🇱/🇪🇺
 
 ![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/1890717?color=g&label=StackOverflow&logo=StackOverflow)
 
