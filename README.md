@@ -20,6 +20,11 @@ Tech: 🕸️ JavaScript | 🐹 Go | 🏢 C# | 🐍 Python | 🐳 Docker/K8s | �
 
 Life: 🚑 EMS | 🥊 Boxing | 🌋 Outdoors | 🗽 New York | 💺 Public Transit | 👩‍🔬 Science | 🏗️ Enginnering
 
+## 🎯 Values & Goals
+
+**😇 Don't be Evil:** Always consider the effects of the systems we build and ensure that they are for good cause.
+**✨ Quality not Quantity:** One built right is better than two things built wrong. 
+
 ## 📮 Get In Touch
 
 💬 [Discord](https://discordapp.com/users/691479032340152320) | 📨 [Email](me@mendel.tech) | 📚 [StackOverflow](https://stackoverflow.com/users/1890717/menachem-hornbacher) | 🤵‍♂️ [LinkedIn](https://linkedin.com/in/mhornbacher)
