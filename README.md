@@ -20,14 +20,14 @@ I am Menachem, a Senior Software Developer in the Education space, a volunteer E
 
 ## 🎙️ Talk To Me About
 
-Tech: 🕸️ JavaScript | 🐹 Go | 🏢 C# | 🐍 Python | 🐳 Docker/K8s | 🐘 PHP | 🐧 Linux | ☕️ Java
+🕸️ JavaScript | 🐹 Go | 🏢 C# | 🐍 Python | 🐳 Docker/K8s | 🐘 PHP | 🐧 Linux | ☕️ Java
 
-Life: 🚑 EMS | 🥊 Boxing | 🌋 Outdoors | 🗽 New York | 💺 Public Transit | 👩‍🔬 Science | 🏗️ Enginnering
+🚑 EMS | 🥊 Boxing | 🌋 Outdoors | 🗽 New York | 💺 Public Transit | 👩‍🔬 Science | 🏗️ Enginnering
 
 ## 🎯 Values & Goals
 
-**😇 Don't be Evil:** Always consider the effects of the systems we build and ensure that they are for good cause.
-**✨ Quality not Quantity:** One built right is better than two things built wrong. 
+- **😇 Don't be Evil:** Always consider the effects of the systems we build and ensure that they are for good cause.
+- **✨ Quality not Quantity:** One built right is better than two things built wrong.
 
 ## 📮 Get In Touch
 
