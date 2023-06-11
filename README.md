@@ -33,7 +33,7 @@ Life: 🚑 EMS | 🥊 Boxing | 🌋 Outdoors | 🗽 New York | 💺 Public Trans
 
 💬 [Discord](https://discordapp.com/users/691479032340152320) | 📨 [Email](me@mendel.tech) | 📚 [StackOverflow](https://stackoverflow.com/users/1890717/menachem-hornbacher) | 🤵‍♂️ [LinkedIn](https://linkedin.com/in/mhornbacher)
 
-## 📊 Metrics
+<!-- ## 📊 Metrics -->
 <!-- ![Menachems's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhornbacher&show_icons=true&theme=transparent) -->
 <!-- ![Menachems's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mhornbacher&theme=transparent)
 
