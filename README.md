@@ -5,8 +5,6 @@ I am Menachem, a Senior Software Developer in the Education space, a volunteer E
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-
-
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/1890717?color=g&label=StackOverflow&logo=StackOverflow)](https://stackoverflow.com/users/1890717/menachem-hornbacher)
 
